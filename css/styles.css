@@ -1,0 +1,144 @@
+
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center; 
+    color: #40514E;  
+}
+
+h1{
+    color: #66BFBF;
+    font-family: 'Roboto Condensed', sans-serif;   
+    font-size: 4.625rem;
+    margin: 50px auto 0px auto;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Oxygen', sans-serif;
+    
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Oxygen', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+.top-container{
+    background-color: #E3FDFD;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+   background-color: #66BFBF;
+   padding: 40px 0 20px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.man{
+    width: 10%;
+}
+
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.controller{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 8px;
+    line-height: 8px;
+    color: #11999E;
+    font-family: Arial;
+    width: 131px;
+    font-size: 20px;
+    padding: 19px;
+    background-color: WHITE;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #11999E;
+    border: solid #FFFFFF 1px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
+ .copyright{
+     color: #eaf6f6;
+     font-size: .75rem;
+     padding: 20px 0;
+ }
